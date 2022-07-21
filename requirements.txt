@@ -1,0 +1,2 @@
+bs4==0.0.1
+pwntools @ git+https://github.com/arthaud/python3-pwntools.git@61210a68cd88e9084c72292d3119c38c44f07966
